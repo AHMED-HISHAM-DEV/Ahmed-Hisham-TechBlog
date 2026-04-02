@@ -1,0 +1,7 @@
+title: Ahmed Hisham Tech Blog
+description: Oracle ACE Associate | Cyber Security Engineer | Cloud Security
+baseurl: "/Ahmed-Hisham-TechBlog" # التعديل هنا: اسم المستودع فقط
+url: "https://AHMED-HISHAM-DEV.github.io" # اسم المستخدم الخاص بك صح
+
+plugins:
+  - jekyll-feed
